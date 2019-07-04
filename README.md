@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="net.png">
+  <br>
+</div>
+
 # Distributed Systems-Networks
 
 The purpose of the exercise is to gain experience of coding RMI and UDP as well as to compare them
