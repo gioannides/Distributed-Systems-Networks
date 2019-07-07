@@ -5,9 +5,9 @@
 
 # Distributed Systems-Networks
 
-1. The code can be found  <a href="https://github.com/gioannides/EIE2-DistributedSystems-Networks">here</a> 
+1. The code can be found  <a href="https://github.com/gioannides/EIE2-DistributedSystems-Networks">here</a>.
 
-2. The report can be found  <a href="Report.pdf">here</a> 
+2. The report can be found  <a href="Report.pdf">here</a>.
 
 The purpose of the exercise is to gain experience of coding RMI and UDP as well as to compare them
 for relative reliability and ease of use.
