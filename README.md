@@ -5,6 +5,9 @@
 
 # Distributed Systems-Networks
 
+The report can be found  <a href="Report.pdf">here</a> 
+------------------------------------------------------
+
 The purpose of the exercise is to gain experience of coding RMI and UDP as well as to compare them
 for relative reliability and ease of use.
 For each case a simple client was written that passes a specified number of messages to a
